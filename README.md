@@ -1,6 +1,5 @@
 # final-java-project
 
-
 classDiagram
     OnlineShop
     User <|-- Customer
